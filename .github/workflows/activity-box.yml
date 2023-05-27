@@ -14,5 +14,5 @@ jobs:
         env:
           GH_PAT: ${{ secrets.GH_PAT }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          GH_USERNAME: Bewheneverwhatiwanr
+          GH_USERNAME: Bewheneverwhatiwant
           GIST_ID: 337b385b6613317947c9bfa5a855a3e3
